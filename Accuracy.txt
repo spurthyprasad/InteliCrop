@@ -1,0 +1,8 @@
+InteliCrop: An Ensemble Model to Predict Crop using Machine Learning Algorithms
+
+Algorithm / Model Used: Ensemble Model (VotingClassifier). Used three algorithm 1) Random Forest Classifier,
+2) Logistic Regression,
+3) Gradient Boosting Classifier.
+
+Train Accuracy: 98.00,
+Test Accuracy: 98.00.
